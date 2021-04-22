@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.cl {
+  float: left;
+  width: 33.33%;
+}
+
+
+.rw:after {
+  clear: both;
+}
